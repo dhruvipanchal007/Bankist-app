@@ -176,3 +176,7 @@ body {
 .summary_value_out {
 	color: #f5465d;
 }
+.sort-btn {
+	border: none;
+	background: none;
+}
